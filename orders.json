@@ -1,0 +1,88 @@
+[
+  {
+    "order_id": "ORD321",
+    "status": "Shipped",
+    "items": [
+      "Wireless Mouse",
+      "USB-C Cable"
+    ],
+    "estimated_delivery": "2025-05-03"
+  },
+  {
+    "order_id": "ORD456",
+    "status": "Processing",
+    "items": [
+      "Bluetooth Headphones"
+    ],
+    "estimated_delivery": "2025-05-05"
+  },
+  {
+    "order_id": "ORD789",
+    "status": "Delivered",
+    "items": [
+      "Laptop Stand",
+      "HDMI Adapter"
+    ],
+    "estimated_delivery": "2025-04-25"
+  },
+  {
+    "order_id": "ORD101",
+    "status": "Cancelled",
+    "items": [
+      "Gaming Keyboard"
+    ],
+    "estimated_delivery": "N/A"
+  },
+  {
+    "order_id": "ORD202",
+    "status": "Shipped",
+    "items": [
+      "Smartwatch",
+      "Fitness Band"
+    ],
+    "estimated_delivery": "2025-05-06"
+  },
+  {
+    "order_id": "ORD303",
+    "status": "Out for Delivery",
+    "items": [
+      "Noise Cancelling Headphones"
+    ],
+    "estimated_delivery": "2025-04-29"
+  },
+  {
+    "order_id": "ORD404",
+    "status": "Returned",
+    "items": [
+      "Tablet",
+      "Tablet Cover"
+    ],
+    "estimated_delivery": "2025-04-20"
+  },
+  {
+    "order_id": "ORD505",
+    "status": "Processing",
+    "items": [
+      "External Hard Drive"
+    ],
+    "estimated_delivery": "2025-05-07"
+  },
+  {
+    "order_id": "ORD606",
+    "status": "Delivered",
+    "items": [
+      "Mechanical Keyboard",
+      "Mousepad"
+    ],
+    "estimated_delivery": "2025-04-27"
+  },
+  {
+    "order_id": "ORD707",
+    "status": "Shipped",
+    "items": [
+      "Webcam",
+      "Ring Light"
+    ],
+    "estimated_delivery": "2025-05-04"
+  }
+]
